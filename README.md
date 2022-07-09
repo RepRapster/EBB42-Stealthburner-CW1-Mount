@@ -11,6 +11,6 @@ i also modified the original stealthburner cw1 pcb cover by Demosth (https://www
 ![IMG_8830 (1)](https://user-images.githubusercontent.com/75168416/178103731-b6a9026c-187c-4bf3-95a3-1aa1705c0c2e.jpg)
 ![IMG_8820](https://user-images.githubusercontent.com/75168416/178103757-87a3fec2-3aa0-4bbc-8a0b-5984a526001d.jpg)
 ![IMG_8639](https://user-images.githubusercontent.com/75168416/178103766-0ff5d2f9-b107-4536-bb3c-a4dbf821285b.jpg)
-![IMG_8829](https://user-images.githubusercontent.com/75168416/178104670-ea7a7ce3-8a9f-4fd6-b782-201e854fac82.PNG)
+![IMG_8829](https://user-images.githubusercontent.com/75168416/178104755-d8716e11-5c04-4013-b1fc-c4b6da3b6791.jpg)
 
 all parts are printed as per voron print specs...
